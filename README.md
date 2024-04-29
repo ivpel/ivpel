@@ -14,31 +14,29 @@ Here are some ideas to get you started:
 -->
 
 
-## 👋 Hi, I'm Ivan! 
+### Who am I:
+👋 Hi, I'm Ivan. Software Engineer & FOSS Enthusiast 🐃
 
-### Automation QA & Free and Open Source Software Enthusiast
+### What do I do:
+🤖 Automated testing & creating scripts that makes life easier;
 
+### ⚒️ My tech stack:
 
-- 🛠️ **Languages:** Python, PHP, JavaScript, Bash;
-- 📦 **Specialization:** Automated testing & creating scripts that makes life easier;
-- 📝 **Projects:** [vigilant-kit](https://github.com/ivpel/vigilant-kit) - set of tools designed to help write and run robust functional tests using Selenium WebDriver. 
+- 🐍 **Languages:** Python, PHP, JavaScript, Bash;
+- 🧩 **Frameworks** pytest, unittest, Robot Framework, MFTF, codeceptJS, Codeception 
+
+### 📝 My Projects
+- [vigilant-kit](https://github.com/ivpel/vigilant-kit) - set of tools designed to help write and run robust functional tests using Selenium WebDriver. 
 
 ---
 
-### 🏢 **Work Experience:**
+### 💼 **Work Experience:**
 
 **Smile Open Source Solutions❤️**  -  since January 2018;
-
----
-
-### 🐃 Free and Open Source Software 
-**_Free as in Freedom_** & **Freedom through transparency** 
-
-Allowing users to see, modify, and share the source code, ensures that they are not
-only consumers but also active participants in the ecosystem, which empowers them to understand, influence, and control the software they use. 
 
 
 ---
 
 ### 📫 **Contact Me**
 Feel free to reach out via email at `ivan.pelykh@protonmail.com`
+
