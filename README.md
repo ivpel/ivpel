@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 -->
 
 
-### Who am I:
-👋 Hi, I'm Ivan. Software Engineer & FOSS Enthusiast 🐃
+👋 Hi, my name is Ivan, and I'm **Software Engineer**.
 
-### What do I do:
-🤖 Automated testing & creating scripts that makes life easier;
+#### What do I do:
+Automated testing & scripts that makes life easier;
 
-### ⚒️ My tech stack:
+#### My tech stack:
 
 - 🐍 **Languages:** Python, PHP, JavaScript, Bash;
 - 🧩 **Frameworks** pytest, unittest, Robot Framework, MFTF, codeceptJS, Codeception 
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 
 ### 💼 **Work Experience:**
 
-**Smile Open Source Solutions❤️**  -  since January 2018;
+**Smile Open Source Solutions ❤️**  -  since January 2018;
 
 
 ---
