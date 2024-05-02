@@ -24,12 +24,12 @@ Automated testing & scripts that makes life easier;
 - 🐍 **Languages:** Python, PHP, JavaScript, Bash;
 - 🧩 **Frameworks** pytest, unittest, Robot Framework, MFTF, codeceptJS, Codeception 
 
-### 📝 My Projects
+### My Projects
 - [vigilant-kit](https://github.com/ivpel/vigilant-kit) - set of tools designed to help write and run robust functional tests using Selenium WebDriver. 
 
 ---
 
-### 💼 **Work Experience:**
+### **Work Experience:**
 
 **Smile Open Source Solutions ❤️**  -  since January 2018;
 
