@@ -16,20 +16,15 @@ Here are some ideas to get you started:
 
 👋 Hi, my name is Ivan, and I'm **Software Engineer**.
 
-#### What do I do:
-Automated testing & scripts that makes life easier;
+I do Automated testing and writing scripts that makes life easier;
 
-#### My tech stack:
-
-- 🐍 **Languages:** Python, PHP, JavaScript, Bash;
-- 🧩 **Frameworks** pytest, unittest, Robot Framework, MFTF, codeceptJS, Codeception 
 
 #### My Projects
 - [vigilant-kit](https://github.com/ivpel/vigilant-kit) - set of tools designed to help write and run robust functional tests using Selenium WebDriver. 
 
 ---
 
-#### **Work Experience:**
+#### **Work:**
 
 **Smile Open Source Solutions ❤️**  -  since January 2018;
 
