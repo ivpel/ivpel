@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, my name is Ivan, and I'm **Software Engineer**.
+👋 Hi, my name is Ivan.
 
-I do Automated testing and writing scripts that makes life easier;
+I do automated testing and writing scripts that makes life easier;
 
 
 #### My Projects
-- [vigilant-kit](https://github.com/ivpel/vigilant-kit) - set of tools designed to help write and run robust functional tests using Selenium WebDriver. 
+- [vigilant-kit](https://github.com/ivpel/vigilant-kit) - library designed to help write and run robust functional tests using Selenium WebDriver without any limitations. 
 
 ---
 
