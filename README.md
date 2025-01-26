@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, my name is Ivan.
-
-I do automated testing and writing scripts that makes life easier;
-
-
 #### My Projects
-- [vigilant-kit](https://github.com/ivpel/vigilant-kit) - library designed to help write and run robust functional tests using Selenium WebDriver without any limitations. 
+- [vigilant-kit](https://github.com/ivpel/vigilant-kit) - library designed to help write and run robust functional tests using Selenium WebDriver without any limitations.
+- [vigilant-scanner](https://github.com/ivpel/vigilant-scanner) - a CLI tool for monitoring file integrity, detecting changes, analyzing logs and identifying potential security threats. 
 
 ---
 
